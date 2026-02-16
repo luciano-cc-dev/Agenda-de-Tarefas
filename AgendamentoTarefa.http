@@ -1,0 +1,6 @@
+@AgendamentoTarefa_HostAddress = http://localhost:5287
+
+GET {{AgendamentoTarefa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
